@@ -20,4 +20,10 @@ body {
     background-color: white;
     height: 528px;
     width: 408px;
+    overflow: hidden;
+}
+
+img#castle {
+    width: 100%;
+
 }
